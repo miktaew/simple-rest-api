@@ -65,6 +65,8 @@ query params:
 - author (looks for all matches)
 - sort (author or release_date)
 - order (for sorting, asc or desc)
+- limit (how many entries per page, 25 by default)
+- page (page of results to get, 1 on default)
 
 
 ```
